@@ -1,76 +1,93 @@
-<h1 align="center">Hi there 👋, I'm Tanmay Madhure</h1>
-<p align="center">
-  <a href="https://github.com/Tanmaymadhure">GitHub</a> •
-  <a href="https://leetcode.com/u/TANMAYMADHURE/">LeetCode</a> •
-  <a href="mailto:tanmaymadhure2@gmail.com">Email</a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Tanmay%20Madhure&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20FastAPI%20%7C%20Spring%20Boot&descAlignY=58"/>
+
+</div>
+
+<h2 align="center">Hi 👋, I'm Tanmay Madhure</h2>
 
 <p align="center">
-  Backend Developer | Java | Python | FastAPI | Spring Boot | Cloud & DevOps
+🚀 Backend Developer passionate about scalable systems, distributed architecture, and cloud-native applications.
+</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tanmaymadhure)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TANMAYMADHURE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-madhure-76ab20228)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaymadhure2@gmail.com)
+
+</div>
+
+---
+## 💫 About Me
+
+- 💻 Backend Developer focused on scalable and secure backend systems
+- ⚡ Interested in Distributed Systems, Cloud & Event-Driven Architecture
+- 🔥 Strong in Java, Python, FastAPI & Spring Boot
+- 🧠 Problem Solver with strong DSA and backend optimization skills
+- 🚀 Passionate about backend engineering and system design
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman,kafka" />
 </p>
 
 ---
 
-## About Me
+## 📊 GitHub Analytics
 
-I am a backend developer focused on building scalable APIs, secure authentication flows, and event-driven systems.
-I enjoy working on backend architecture, database optimization, and cloud-based services.
+<div align="center">
 
-## What I Work With
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanmaymadhure&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- **Backend:** FastAPI, Spring Boot, REST APIs, SQLAlchemy, Microservices Architecture
-- **Languages:** Python, Java, SQL, JavaScript
-- **Databases:** PostgreSQL, MySQL, MSSQL, Redis
-- **Cloud & DevOps:** AWS (EC2, ECS, S3, DynamoDB, SQS, IoT Core), Docker, GitHub Actions
-- **Tools:** Git, Postman, Kafka, MQTT, Redis Queue, MinIO
-- **Core Concepts:** Data Structures & Algorithms, OOP, Distributed Systems, Caching, Authentication & Authorization
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaymadhure&theme=tokyonight&hide_border=true"/>
 
-## Experience
+</div>
 
-### Backend Developer — VERGEIMPEX LLP
-*Nov 2025 – Present*
+<div align="center">
 
-- Developed backend services for a healthcare management platform using FastAPI, PostgreSQL, and Redis.
-- Designed a template-based appointment scheduling system that reduced database storage by 83% and prevented double booking using pessimistic locking.
-- Built an AI-powered medical document processing pipeline for extracting and validating patient data.
-- Implemented JWT authentication with OTP-based MFA, Redis session management, and rate limiting.
-- Optimized performance using 50+ database indexes and Redis caching.
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaymadhure&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Backend Developer — ALPHAWIZZ PVT LTD
-*Jun 2024 – Nov 2024*
-
-- Developed RESTful APIs for core modules of an e-commerce application using Java and Spring Boot.
-- Designed backend features for order management and user authentication with MySQL integration.
-- Gained hands-on experience with Postman, Spring Boot architecture, and API testing.
-- Collaborated with the development team to ensure smooth API functionality and data flow.
-
-## Projects
-
-### SmartParkNGo — Smart Parking Backend System
-- Built a cloud-based parking management backend using FastAPI and MSSQL.
-- Designed 30+ database tables and 20+ REST APIs.
-- Integrated real-time IoT communication using MQTT.
-- Developed asynchronous worker services using AWS SQS FIFO queues.
-- Added AWS services such as DynamoDB Streams, S3, and CloudWatch for reliable event processing and monitoring.
-
-### Expense Tracker
-- Built backend services for user accounts and transaction storage using Java, Spring Boot, Kafka, and MySQL.
-- Integrated Kafka for asynchronous communication.
-- Implemented AI-based transaction categorization using Python and Scikit-learn.
-- Containerized services with Docker and deployed them on AWS EC2.
-
-## Education
-
-**Government Ujjain Engineering College, Ujjain, Madhya Pradesh**  
-Bachelor of Technology (B.Tech.), Electronics & Communication Engineering  
-*Aug 2020 – Jun 2024*
-
-## Profiles
-
-- GitHub: [Tanmaymadhure](https://github.com/Tanmaymadhure)
-- LeetCode: [TANMAYMADHURE](https://leetcode.com/u/TANMAYMADHURE/)
-- Email: [tanmaymadhure2@gmail.com](mailto:tanmaymadhure2@gmail.com)
+</div>
 
 ---
 
-<p align="center">✨ Always learning, building, and improving. ✨</p>
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:tanmaymadhure2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/Tanmaymadhure"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://linkedin.com/in/tanmay-madhure-76ab20228"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Backend Developer | Building scalable APIs & cloud-native systems ⚡
+
+</div>
