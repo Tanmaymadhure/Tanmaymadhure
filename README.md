@@ -1,167 +1,126 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f1f3d,100:2563eb&height=280&section=header&text=Tanmay%20Madhure&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=60&descSize=20&fontAlignX=50"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Distributed+Systems+Enthusiast+%E2%9A%A1;Cloud+%26+Event-Driven+Architecture+%E2%98%81%EF%B8%8F;Java+%7C+Python+%7C+Spring+Boot+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+<!--
+  Every visual on this page is a hand-built animated SVG stored in /assets.
+  No third-party widgets = nothing to rate-limit, nothing to break.
+  Regenerate / tweak everything with:  python3 build_assets.py
+-->
 
 <div align="center">
 
-<a href="https://github.com/Tanmaymadhure">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>&nbsp;
-<a href="https://leetcode.com/u/TANMAYMADHURE/">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/tanmay-madhure-76ab20228/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:tanmaymadhure2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="assets/header.svg" alt="Tanmay Madhure — Backend Developer building scalable, event-driven systems" width="100%"/>
+
+<br/><br/>
+
+<a href="https://github.com/Tanmaymadhure"><img src="assets/btn-github.svg" alt="GitHub" height="54"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/tanmay-madhure-76ab20228/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="54"/></a>&nbsp;
+<a href="https://leetcode.com/u/TANMAYMADHURE/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="54"/></a>&nbsp;
+<a href="mailto:tanmaymadhure2@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="54"/></a>
 
 </div>
 
 <br/>
 
----
+<img src="assets/h-whoami.svg" alt="GET /whoami" width="100%"/>
 
-## 👨‍💻 About Me
+<br/>
 
-```java
-public class TanmayMadhure extends BackendDeveloper {
+<img src="assets/terminal.svg" alt="Terminal: backend developer from Mumbai working on scalable systems, messaging, AI workflows and security" width="100%"/>
 
-    String[] focus     = { "Scalable Systems", "Distributed Architecture", "Cloud-Native" };
-    String[] languages = { "Java", "Python", "JavaScript", "SQL" };
-    String[] interests = { "Event-Driven Systems", "System Design", "Backend Optimization" };
-    boolean  openToWork = true;
+<br/><br/>
 
-    @Override
-    public String getMotivation() {
-        return "Code with purpose. Build with scale. Ship with impact.";
-    }
-}
-```
+<img src="assets/metrics.svg" alt="30+ database tables, 20+ REST APIs, 2 AI-integrated systems, open to work" width="100%"/>
 
----
+<br/><br/>
 
-## 🛠️ Tech Stack
+<img src="assets/h-stack.svg" alt="GET /stack" width="100%"/>
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java" title="Java"/>
-<img src="https://skillicons.dev/icons?i=python" title="Python"/>
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=postgresql" title="SQL"/>
-</p>
+<br/>
 
-### ⚙️ Backend Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
-<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
-</p>
+<img src="assets/stack.svg" alt="Tech stack: Python, Java, TypeScript, FastAPI, Spring Boot, PostgreSQL, Redis, Kafka, MQTT, AWS, Docker, Kubernetes, LLM integration and more" width="100%"/>
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
-</p>
+<br/><br/>
 
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
-<img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-<img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
-</p>
+<img src="assets/h-experience.svg" alt="GET /experience" width="100%"/>
 
-### 🔧 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git" title="Git"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-<img src="https://skillicons.dev/icons?i=kafka" title="Kafka"/>
-</p>
+<br/>
 
-### 🧠 Core Concepts
+<img src="assets/timeline.svg" alt="Career timeline: VERGEIMPEX LLP, AlphaWizz Technologies, Government Ujjain Engineering College" width="100%"/>
 
-![DSA](https://img.shields.io/badge/DSA-1e293b?style=flat-square&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-1e293b?style=flat-square&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-1e293b?style=flat-square&logoColor=white)
-![Caching](https://img.shields.io/badge/Caching-1e293b?style=flat-square&logoColor=white)
-![Authentication & Authorization](https://img.shields.io/badge/Auth%20%26%20Authorization-1e293b?style=flat-square&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1e293b?style=flat-square&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1e293b?style=flat-square&logoColor=white)
-![Message Queues](https://img.shields.io/badge/Message%20Queues-1e293b?style=flat-square&logoColor=white)
+<br/>
 
----
+<details open>
+<summary><b>VERGEIMPEX LLP</b> &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; <i>Nov 2025 → Present</i></summary>
 
-## 📊 GitHub Stats
+<br/>
 
-<div align="center">
+- Built backend services with **FastAPI, PostgreSQL and Redis** for healthcare and enterprise applications.
+- Secured APIs with **JWT, OTP-based MFA, RBAC, Redis-backed sessions** and **API rate limiting**.
+- Engineered **AI-assisted medical document workflows** for automated extraction, validation and approval of healthcare records.
+- Tuned **PostgreSQL queries and indexing**, added **Redis caching**, and wrote **asynchronous background workers** for backend processing.
+- Designed database schemas, backend APIs and service workflows; contributed to production deployments and system integration.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanmaymadhure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&border_radius=12"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaymadhure&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=f97316&currStreakLabel=2563eb&border_radius=12"/>
+</details>
 
-</div>
+<details>
+<summary><b>AlphaWizz Technologies Pvt. Ltd.</b> &nbsp;·&nbsp; Backend Developer Intern &nbsp;·&nbsp; <i>Jun 2024 → Nov 2024</i></summary>
+
+<br/>
+
+- Developed authentication and business modules with **Java, Spring Boot, Hibernate and MySQL**.
+- Implemented business logic and relational operations using **Spring Data JPA**, and optimized SQL queries.
+
+</details>
+
+<br/>
+
+<img src="assets/h-projects.svg" alt="GET /projects" width="100%"/>
+
+<br/>
+
+<img src="assets/arch-smartparkngo.svg" alt="SmartParkNGo architecture: IoT sensors to MQTT to FastAPI to SQS FIFO to async workers to DynamoDB Streams, S3 and CloudWatch" width="100%"/>
+
+<br/>
+
+**SmartParkNGo** — a cloud-based smart-parking backend built around events.
+
+- **30+ tables** and **20+ REST APIs** on FastAPI and Microsoft SQL Server, covering parking sessions, payments, devices and event management.
+- **Real-time IoT** communication over **MQTT** with parking sensors and edge devices.
+- **AWS SQS FIFO** queues drive async worker services for reliable event processing and payment workflows.
+- **DynamoDB Streams, S3 and CloudWatch** power event processing and monitoring.
+
+`FastAPI` `PostgreSQL` `MSSQL` `MQTT` `AWS SQS` `DynamoDB` `S3` `CloudWatch` `Docker`
+
+<br/>
+
+<img src="assets/arch-quantum.svg" alt="Quantum Network architecture: RSS and arXiv ingestion, vLLM Gemma with Gemini fallback, PostgreSQL and MinIO, Express.js API, Next.js frontend, on Kubernetes" width="100%"/>
+
+<br/>
+
+**Quantum Network** — an AI-powered content platform with a layered microservice architecture.
+
+- Backend services in **Express.js and FastAPI** with **PostgreSQL** and **MinIO**.
+- Automated **ingestion pipelines** for RSS feeds and arXiv, with LLM-based processing and metadata enrichment.
+- **Local Gemma inference through vLLM**, with **Gemini as fallback**, for content generation and summarization.
+- Containerized with **Docker**, deployed on **Kubernetes**, secured with authentication and caching.
+
+`Next.js` `Express.js` `FastAPI` `PostgreSQL` `MinIO` `Docker` `Kubernetes` `Gemini` `vLLM`
+
+<br/><br/>
+
+<img src="assets/h-contact.svg" alt="POST /contact" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaymadhure&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&border_radius=12"/>
-
-</div>
+**Open to backend roles.** If you're building something that has to scale, let's talk.
 
 <br/>
 
-<div align="center">
+<a href="mailto:tanmaymadhure2@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="54"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/tanmay-madhure-76ab20228/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="54"/></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmaymadhure&theme=tokyo-night&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&hide_border=true" width="95%"/>
+<br/><br/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanmaymadhure&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:tanmaymadhure2@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" title="Email"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Tanmaymadhure">
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tanmay-madhure-76ab20228/">
-  <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f1f3d,100:050816&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img src="assets/footer.svg" alt="Code with purpose. Build with scale. Ship with impact." width="100%"/>
 
 </div>
