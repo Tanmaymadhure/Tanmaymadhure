@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 58" width="900" height="58" role="img" aria-label="GET /stack">
+<title>GET /stack</title>
+<defs><linearGradient id="sw"><stop offset="0" stop-color="#60a5fa" stop-opacity="0"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></linearGradient>
+<clipPath id="hc"><rect x="1" y="1" width="898" height="56" rx="12"/></clipPath></defs>
+<style>
+text{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<rect x="1" y="1" width="898" height="56" rx="12" fill="#0a1226" stroke="#1b2848"/>
+<g clip-path="url(#hc)"><rect x="-200" y="55" width="200" height="3" fill="url(#sw)"><animate attributeName="x" from="-200" to="900" dur="3.6s" repeatCount="indefinite"/></rect>
+<rect x="0" y="0" width="5" height="58" fill="#60a5fa"/></g>
+<rect x="24" y="15" width="48" height="28" rx="7" fill="#60a5fa" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/>
+<text class="m" x="48.0" y="34" font-size="14" font-weight="800" fill="#60a5fa" text-anchor="middle">GET</text>
+<text class="m" x="88" y="37" font-size="22" font-weight="700" fill="#e6edf7" textLength="79" lengthAdjust="spacing">/stack</text>
+<text class="m" x="185" y="36" font-size="14" fill="#7f8fb3">// services in the mesh</text>
+<circle cx="740" cy="29" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text class="m" x="754" y="34" font-size="14" fill="#34d399" textLength="118" lengthAdjust="spacing">200 OK  ·  8ms</text>
+</svg>

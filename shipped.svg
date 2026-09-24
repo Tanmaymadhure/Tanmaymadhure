@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 252" width="900" height="252" role="img" aria-label="What I have built: auth and security, event-driven pipelines, AI and LLM workflows, database engineering, cloud and containers, backend APIs">
+<title>What I have built: auth and security, event-driven pipelines, AI and LLM workflows, database engineering, cloud and containers, backend APIs</title>
+<defs><clipPath id="k0"><rect x="0.0" y="0" width="289.3" height="118" rx="14"/></clipPath><clipPath id="k1"><rect x="305.3" y="0" width="289.3" height="118" rx="14"/></clipPath><clipPath id="k2"><rect x="610.7" y="0" width="289.3" height="118" rx="14"/></clipPath><clipPath id="k3"><rect x="0.0" y="134" width="289.3" height="118" rx="14"/></clipPath><clipPath id="k4"><rect x="305.3" y="134" width="289.3" height="118" rx="14"/></clipPath><clipPath id="k5"><rect x="610.7" y="134" width="289.3" height="118" rx="14"/></clipPath></defs>
+<style>
+text{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<rect x="0.0" y="0" width="289.3" height="118" rx="14" fill="#0a1226" stroke="#f472b6" stroke-opacity=".35"/>
+<g clip-path="url(#k0)"><rect x="0.0" y="0" width="289.3" height="4" fill="#f472b6"/>
+<rect x="-120.0" y="115" width="120" height="3" fill="#f472b6" opacity=".9"><animate attributeName="x" from="-120.0" to="289.3" dur="3.20s" repeatCount="indefinite"/></rect></g>
+<text class="m" x="20.0" y="34" font-size="12" font-weight="700" fill="#f472b6" fill-opacity=".8">01</text>
+<circle cx="267.3" cy="29" r="4" fill="#f472b6"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="52.0" y="35" font-size="17" font-weight="700" fill="#e6edf7">Auth &amp; Security</text><text class="m" x="20.0" y="68" font-size="12" fill="#7f8fb3">JWT · OTP-based MFA · RBAC · Redis</text><text class="m" x="20.0" y="86" font-size="12" fill="#7f8fb3">sessions · API rate limiting</text>
+<rect x="305.3" y="0" width="289.3" height="118" rx="14" fill="#0a1226" stroke="#22d3ee" stroke-opacity=".35"/>
+<g clip-path="url(#k1)"><rect x="305.3" y="0" width="289.3" height="4" fill="#22d3ee"/>
+<rect x="185.3" y="115" width="120" height="3" fill="#22d3ee" opacity=".9"><animate attributeName="x" from="185.3" to="594.7" dur="3.55s" repeatCount="indefinite"/></rect></g>
+<text class="m" x="325.3" y="34" font-size="12" font-weight="700" fill="#22d3ee" fill-opacity=".8">02</text>
+<circle cx="572.7" cy="29" r="4" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="2.0s" repeatCount="indefinite"/></circle>
+<text x="357.3" y="35" font-size="17" font-weight="700" fill="#e6edf7">Event-Driven Pipelines</text><text class="m" x="325.3" y="68" font-size="12" fill="#7f8fb3">SQS FIFO queues · Kafka · MQTT ·</text><text class="m" x="325.3" y="86" font-size="12" fill="#7f8fb3">DynamoDB Streams · async workers</text>
+<rect x="610.7" y="0" width="289.3" height="118" rx="14" fill="#0a1226" stroke="#34d399" stroke-opacity=".35"/>
+<g clip-path="url(#k2)"><rect x="610.7" y="0" width="289.3" height="4" fill="#34d399"/>
+<rect x="490.7" y="115" width="120" height="3" fill="#34d399" opacity=".9"><animate attributeName="x" from="490.7" to="900.0" dur="3.90s" repeatCount="indefinite"/></rect></g>
+<text class="m" x="630.7" y="34" font-size="12" font-weight="700" fill="#34d399" fill-opacity=".8">03</text>
+<circle cx="878.0" cy="29" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="662.7" y="35" font-size="17" font-weight="700" fill="#e6edf7">AI / LLM Workflows</text><text class="m" x="630.7" y="68" font-size="12" fill="#7f8fb3">Medical-document extraction · vLLM +</text><text class="m" x="630.7" y="86" font-size="12" fill="#7f8fb3">Gemini pipelines</text>
+<rect x="0.0" y="134" width="289.3" height="118" rx="14" fill="#0a1226" stroke="#a78bfa" stroke-opacity=".35"/>
+<g clip-path="url(#k3)"><rect x="0.0" y="134" width="289.3" height="4" fill="#a78bfa"/>
+<rect x="-120.0" y="249" width="120" height="3" fill="#a78bfa" opacity=".9"><animate attributeName="x" from="-120.0" to="289.3" dur="4.25s" repeatCount="indefinite"/></rect></g>
+<text class="m" x="20.0" y="168" font-size="12" font-weight="700" fill="#a78bfa" fill-opacity=".8">04</text>
+<circle cx="267.3" cy="163" r="4" fill="#a78bfa"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="52.0" y="169" font-size="17" font-weight="700" fill="#e6edf7">Database Engineering</text><text class="m" x="20.0" y="202" font-size="12" fill="#7f8fb3">Schema design · indexing · query</text><text class="m" x="20.0" y="220" font-size="12" fill="#7f8fb3">tuning · Redis caching · 30+ tables</text>
+<rect x="305.3" y="134" width="289.3" height="118" rx="14" fill="#0a1226" stroke="#fb923c" stroke-opacity=".35"/>
+<g clip-path="url(#k4)"><rect x="305.3" y="134" width="289.3" height="4" fill="#fb923c"/>
+<rect x="185.3" y="249" width="120" height="3" fill="#fb923c" opacity=".9"><animate attributeName="x" from="185.3" to="594.7" dur="4.60s" repeatCount="indefinite"/></rect></g>
+<text class="m" x="325.3" y="168" font-size="12" font-weight="700" fill="#fb923c" fill-opacity=".8">05</text>
+<circle cx="572.7" cy="163" r="4" fill="#fb923c"><animate attributeName="opacity" values="1;.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<text x="357.3" y="169" font-size="17" font-weight="700" fill="#e6edf7">Cloud &amp; Containers</text><text class="m" x="325.3" y="202" font-size="12" fill="#7f8fb3">AWS (EC2, S3, SQS) · Docker ·</text><text class="m" x="325.3" y="220" font-size="12" fill="#7f8fb3">Kubernetes · Helm · CI/CD</text>
+<rect x="610.7" y="134" width="289.3" height="118" rx="14" fill="#0a1226" stroke="#60a5fa" stroke-opacity=".35"/>
+<g clip-path="url(#k5)"><rect x="610.7" y="134" width="289.3" height="4" fill="#60a5fa"/>
+<rect x="490.7" y="249" width="120" height="3" fill="#60a5fa" opacity=".9"><animate attributeName="x" from="490.7" to="900.0" dur="4.95s" repeatCount="indefinite"/></rect></g>
+<text class="m" x="630.7" y="168" font-size="12" font-weight="700" fill="#60a5fa" fill-opacity=".8">06</text>
+<circle cx="878.0" cy="163" r="4" fill="#60a5fa"><animate attributeName="opacity" values="1;.25;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="662.7" y="169" font-size="17" font-weight="700" fill="#e6edf7">Backend APIs</text><text class="m" x="630.7" y="202" font-size="12" fill="#7f8fb3">20+ REST APIs with FastAPI, Spring</text><text class="m" x="630.7" y="220" font-size="12" fill="#7f8fb3">Boot and Express.js</text>
+</svg>

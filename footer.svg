@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Code with purpose. Build with scale. Ship with impact.">
+<title>Code with purpose. Build with scale. Ship with impact.</title>
+<defs><linearGradient id="q" x1="0" x2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3"/></filter><clipPath id="fc"><rect width="1000" height="170" rx="18"/></clipPath></defs>
+<style>
+text{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+
+<g clip-path="url(#fc)"><rect width="1000" height="170" fill="#0a1226"/>
+<path d="M0 60 h96 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 H1000" fill="none" stroke="#1b2848" stroke-width="2"/>
+<path d="M0 60 h96 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 H1000" fill="none" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" pathLength="1000" stroke-dasharray="130 870" filter="url(#gl)"><animate attributeName="stroke-dashoffset" from="130" to="-870" dur="4s" repeatCount="indefinite"/></path>
+<path d="M0 60 h96 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 h78 l14 0 l6 -10 l6 10 l10 0 l8 -34 l10 62 l8 -46 l8 18 l14 0 H1000" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" pathLength="1000" stroke-dasharray="130 870"><animate attributeName="stroke-dashoffset" from="130" to="-870" dur="4s" repeatCount="indefinite"/></path></g>
+<rect x=".5" y=".5" width="999" height="169" rx="18" fill="none" stroke="#1b2848"/>
+<text x="500.0" y="124" font-size="24" font-weight="700" fill="url(#q)" text-anchor="middle" xml:space="preserve">Code with purpose.  Build with scale.  Ship with impact.</text>
+<text class="m" x="500.0" y="151" font-size="12" fill="#7f8fb3" text-anchor="middle">hand-drawn in SVG · zero third-party widgets · uptime: 99.9%</text>
+</svg>
